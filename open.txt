@@ -1,0 +1,3 @@
+cd "C:\Users\Geetha\Documents\Geetha-devops\GITHUB-FOR-DEVOPS"
+.\venv\Scripts\Activate.ps1
+python --version
