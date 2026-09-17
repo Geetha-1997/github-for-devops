@@ -1,4 +1,4 @@
-"""Example module demonstrating a function from the dev branch."""
+"""Testing module for Python and Pylint practice."""
 
 
 def function():
